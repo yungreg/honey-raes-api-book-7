@@ -91,13 +91,6 @@
   ],
   "serviceTickets": [
     {
-      "id": 1,
-      "userId": 3,
-      "description": "This gets to be in English now because you figured it out! 10.31.22! Halloween Night! how fun! ",
-      "emergency": false,
-      "dateCompleted": "Fri Apr 29 2022 14:02:20 GMT-0500 (Central Daylight Time)"
-    },
-    {
       "userId": 3,
       "description": "Vero est adipisci sed natus quasi consectetur occaecati. Modi maxime sunt officia cumque. Vel at culpa. Sint accusamus deserunt dolorem qui.",
       "emergency": true,
@@ -142,19 +135,9 @@
   ],
   "employeeTickets": [
     {
-      "id": 1,
-      "employeeId": 3,
-      "serviceTicketId": 1
-    },
-    {
       "id": 2,
       "employeeId": 2,
       "serviceTicketId": 5
-    },
-    {
-      "employeeId": 4,
-      "serviceTicketId": 3,
-      "id": 5
     },
     {
       "employeeId": 1,
